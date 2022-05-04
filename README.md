@@ -1,1 +1,1 @@
-# My personal game website! I saw some kid at school doing this and wanted to try it out with my own games. I currently have a clicker up as well as a simple test to see how sprite based shooting animations might work
+# My personal game website! I saw some kid at school doing this and wanted to try it out with my own games. I currently have a lot of plans for this site, I have one game that isn't finished yet, and two test games. Planning of adding some new things that aren't games but that'll be in the future.
